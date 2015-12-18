@@ -1,5 +1,9 @@
 ## Biodata
 
-*Asal daerah : Jakarta
 
 *Jurusan : Fisika Teknik
+
+*Fakultas : Teknologi Industri
+
+*Universitas : ITB
+
